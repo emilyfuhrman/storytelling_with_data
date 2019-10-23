@@ -61,6 +61,8 @@ We will be using one dataset for this studio:
 
 ![Excel Trimmed](https://github.com/emilyfuhrman/datavis_design/blob/master/2019_Spring/Studios/Images/01/09_Excel_Trimmed.png)
 
+* If you are working in Google Sheets, export the file to Excel by going to `File > Download > Microsoft Excel`.
+
 #### Importing data into Tableau
 
 * If you have not already done so, download and install [Tableau Public](https://public.tableau.com/s/).
